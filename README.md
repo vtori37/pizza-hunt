@@ -1,13 +1,9 @@
 # Pizza Hunt
 
 ## Description 
-![alt text](./assets/Images/.png)
-
-
-
+When using this application, users can create and customize their favorite pizza combinations. They can also comment on the recipes others have created and posted. 
 ## Table of Contents 
 * [Website](#Website)
-* [Installation](#Installation)
 * [Usage](#Usage)
 * [Test](#Test)
 * [Contributors](#contributors)
@@ -17,28 +13,17 @@
 
 ## Website
 Here is a link to the live website:
-[Pizza Hunt](https://github.com/vtori37/pizza-hunt/)
+<!-- [Pizza Hunt](https://github.com/vtori37/pizza-hunt/) -->
 
-## Installation 
-To access the application
-
-## Usage
-This project can be used to create company profile pages.
-
-## Test
-Here is a demonstration of the application.
 
 ## Technology
 * HTML5
 * CSS 
 * JS
-## Contributors
-
+* MongoDB
+* Node.js
 ## Author
 [Victoria Rice](https://github.com/vtori37)
-The following individuals helped assit me in building this code:
-
-
 ### Questions
 If you have any questions or concerns regarding this project, feel free to reach out to Victoria Rice at vrice360@gmail.com
 
