@@ -13,7 +13,7 @@ When using this application, users can create and customize their favorite pizza
 
 ## Website
 Here is a link to the live website:
-<!-- [Pizza Hunt](https://github.com/vtori37/pizza-hunt/) -->
+[Pizza Hunt](https://quiet-atoll-70644.herokuapp.com/)
 
 
 ## Technology
